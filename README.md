@@ -100,5 +100,3 @@ A weekly running log of the most relevant AI trends across image & video generat
 **Scope:** AI Image & Video Tools (lead), Ad Creative & Performance Trends, AI Design Tools & Workflows, AI Content & Copy Tools.
 
 **Sources monitored:** Web Search, X / Twitter, LinkedIn, YouTube channels, AI newsletters (Ben's Bites, Rundown AI), Reddit (r/StableDiffusion, r/aivideo, r/midjourney), Instagram / TikTok creator surfaces.
-
-*Maintained by Gabi.*
